@@ -1,0 +1,6 @@
+db_config = {'user': 'analyst',         # имя пользователя
+             'pwd': 'I80qcMa', # пароль
+             'host': 'logdb.cdxwh80nuzgz.us-west-2.rds.amazonaws.com',
+             'port': 5432,              # порт подключения
+             'db': 'shopinfo'}          # название базы данных
+
