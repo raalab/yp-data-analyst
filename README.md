@@ -18,8 +18,8 @@ https://github.com/raalab/yp-data-analyst/tree/master/01-yandex-music
 https://github.com/raalab/yp-data-analyst/tree/master/02-credit-scoring
 
 **03-real-estate-spb**\
-https://github.com/raalab/yp-data-analyst/tree/master/03-real-estate-spb\
 **Исследование объявлений о продаже квартир в г.Санкт-Петербург.**\
+https://github.com/raalab/yp-data-analyst/tree/master/03-real-estate-spb\
 Исходные данные — архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктов за несколько лет из Яндекс.Недвижимость. Определение рыночной стоимости объектов недвижимости.  Определение параметров для автоматизированной системы отслеживания аномалий и мошеннической деятельности.\
 Основы графических методов анализа в Pyplot.
  
