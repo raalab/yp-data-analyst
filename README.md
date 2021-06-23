@@ -4,7 +4,7 @@
 От более ранних, начальных проектов, к более поздним.*
 
 ## СОДЕРЖАНИЕ
-<font color=#ffffff>This is some text!</font>
+<font color=#ff0000>This is some text!</font>
 
 **01-yandex-music**\
 **Анализ предпочтений слушателей Яндекс.Музыки.**\
